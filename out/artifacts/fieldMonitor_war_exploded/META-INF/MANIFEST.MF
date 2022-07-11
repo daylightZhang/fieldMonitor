@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: 85402
+Build-Jdk: 1.8.0_291
+Implementation-Title: fieldMonitor
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.cornell
+Main-Class: ${start-class}
+
